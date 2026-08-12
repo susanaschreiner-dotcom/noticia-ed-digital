@@ -1,0 +1,11 @@
+noticia-educacao-digital/
+│
+├── index.html
+├── style.css
+├── script.js
+└── imagens/
+    └── educacao.jpg
+    <img src="educacao-digital.png"
+     alt="Estudantes utilizando tecnologia na educação">
+     <img src="imagem.jpg"
+     alt="Estudantes utilizando computadores durante uma atividade de educação digital">
